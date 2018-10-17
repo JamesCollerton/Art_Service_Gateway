@@ -3,7 +3,7 @@
 
 # Art Service Gateway
 
-This is the art service zuul gateway.
+This is the art service Zuul gateway.
 
-Port Number: 8090
+Port Number: 8762
 
