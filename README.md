@@ -5,5 +5,24 @@
 
 This is the art service Zuul gateway.
 
-Port Number: 8762
+Detail | Value
+------------ | -------------
+Port Number | 8762
+Spring Application Name | art-service-zuul-server
+ECR Repository Name |
+ECS Service/ Task Name |
 
+## What is Zuul?
+
+Routing is an integral part of a microservice architecture. For example, / may be mapped to your web application, /api/users is mapped to the user service and /api/shop is mapped to the shop service. Zuul is a JVM-based router and server-side load balancer from Netflix. It can be used to apply filters to requests as they come through the edge service and can be used for:
+
+- Authentication
+- Insights
+- Stress Testing
+- Canary Testing
+- Dynamic Routing
+- Service Migration
+- Load Shedding
+- Security
+- Static Response handling
+- Active/Active traffic management
