@@ -8,7 +8,7 @@ This is the art service Zuul gateway.
 Detail | Value
 ------------ | -------------
 Port Number | 8762
-Spring Application Name | art-service-zuul-server
+Spring Application Name | art-service-gateway
 ECR Repository Name |
 ECS Service/ Task Name |
 
