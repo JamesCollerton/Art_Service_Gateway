@@ -9,7 +9,7 @@ Detail | Value
 ------------ | -------------
 Port Number | 8762
 Spring Application Name | art-service-gateway
-ECR Repository Name |
+ECR Repository Name | art-service-gateway
 ECS Service/ Task Name |
 
 ## What is Zuul?
