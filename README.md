@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/JamesCollerton/Art_Service_Gateway.svg?branch=master)](https://travis-ci.com/JamesCollerton/Art_Service_Gateway)
 [![codecov](https://codecov.io/gh/JamesCollerton/Art_Service_Gateway/branch/master/graph/badge.svg)](https://codecov.io/gh/JamesCollerton/Art_Service_Gateway)
+[![Maintainability](https://api.codeclimate.com/v1/badges/94d71e9d0e2c8d752156/maintainability)](https://codeclimate.com/github/JamesCollerton/Art_Service_Gateway/maintainability)
 
 # Art Service Gateway
 
@@ -9,7 +10,7 @@ Detail | Value
 ------------ | -------------
 Port Number | 8762
 Spring Application Name | art-service-gateway
-ECR Repository Name |
+ECR Repository Name | art-service-gateway
 ECS Service/ Task Name |
 
 ## What is Zuul?
